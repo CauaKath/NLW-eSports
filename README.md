@@ -12,7 +12,7 @@ npm run dev
 ### Rodando Web
 
 ```
-cd server
+cd web
 npm run build
 npm run dev
 ```
