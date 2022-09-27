@@ -8,3 +8,11 @@ cd server
 npm run build
 npm run dev
 ```
+
+### Rodando Web
+
+```
+cd server
+npm run build
+npm run dev
+```
